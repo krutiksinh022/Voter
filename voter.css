@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    height: 100px;
+}
+.Flag{
+    padding-left: 40px;
+    padding-top: 10px;
+    height: 70px;
+    width: 120px;
+}
+header h3{
+    color: white;
+    margin-left: 150px;
+    font-size: 30px;
+}
+.text{
+    margin-left: 200px;
+    color: white;
+}
+.text2{
+    margin-left: 250px;
+}
+.hi2{
+
+    height: 70px;
+    width: 120px;
+    margin-left: 130px;
+}
+.aplus{
+    border-radius: 10px;
+    border-color: blue;
+    margin-top: 15px;
+    margin-left: 100px;
+    width: 80px;
+    color: white;
+    background-color: silver;
+
+}
+.aplus:hover{
+    background-color: blue;
+    color: white;
+}
+.lang{
+    margin-top: 15px;
+    margin-left: 600px;
+    font-size: 15px;
+}
+.Button{
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.Button button{
+    width: 70px;
+    color: white;
+    background-color: black;
+}
+.Button button:hover{
+    color: black;
+    background-color: white;
+}
+.container{
+    background-color: rgb(250, 243, 243);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    height: 2300px;
+    border: solid ;
+}
+.type{
+    background-color: silver;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    height: 80px;
+}
+.type h3{
+    margin-left: 40px;
+    
+}
+.rules{
+    margin-top: -10px;
+}
+.app{
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-right: 20px;
+    background-color: rgba(189, 88, 52, 0.493);
+    height: 70px;
+}
+.app h2{
+    font-size: 22px;
+    margin-left: 20px;
+}
+.div2{
+    margin-top: 50px;
+}
+.mand{
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgba(189, 88, 52, 0.493);
+    height: 50px;
+}
+.mand h3{
+    padding: 13px;
+}
+.detail{
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.upload button{
+   color: white;
+   background-color: black;
+}
+.upload button:hover{
+      color: black;
+      background-color: white;
+}
+.line{
+    height: 1px;
+    border: solid rgb(216, 215, 215);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.reset{
+    background-color: green;
+    color: azure;
+    margin-top: 20px;
+    margin-left: 600px;
+    height: 25px;
+    width: 80px;
+
+}
+.Submit{
+    background-color: green;
+    color: azure;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 25px;
+    width: 80px;
+}
+footer{
+    height: 100px;
+    background-color: black;
+    margin-top: 20px;
+}
+.fh4{
+    color: white;
+    padding-top: 40px;
+    padding-left: 600px;
+}
